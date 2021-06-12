@@ -4,6 +4,7 @@ import About from './components/About/about'
 import Skills from './components/Skills/skills'
 import Stats from './components/Stats/stats.jsx'
 
+
 function App() {
   return (
     <div>
