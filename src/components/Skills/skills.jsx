@@ -16,6 +16,7 @@ import dart from '../svg/dart.svg'
 import flutter from '../svg/flutter.svg'
 import git from '../svg/git.svg'
 import github from '../svg/github.svg'
+import Tag from '../Tag/tag'
 
 function Skills() {
 
@@ -23,7 +24,7 @@ function Skills() {
     return(
         <div className="container-fluid sm:w-screen md:w-screen lg:w-screen px-10 py-20 content-center">
             
-            <h1 className="font-bold shadow-lg text-center w-20 mx-auto text-white bg-purple-600">Skills</h1>
+            <Tag name="Skills"/>
             
             <div className="flex justify-center py-10">
 

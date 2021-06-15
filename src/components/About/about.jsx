@@ -1,8 +1,10 @@
+import Tag from '../Tag/tag'
+
 function About() {
     return(
         <div className="container-fluid sm:w-screen md:w-screen lg:w-screen px-10 py-20 content-center">
             
-            <h1 className="font-bold shadow-lg text-center w-20 mx-auto text-white bg-purple-600">About Me</h1>
+            <Tag name="About Me"/>
             <h2 className="text-center font-bold py-10">
                 Hey!, i'm Rahul, i'm a CSE student in the day and a developer by evening.<br/>
                 I believe in building stuff and solving problems and I'm interested in <br/>
