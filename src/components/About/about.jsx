@@ -6,11 +6,11 @@ function About() {
             
             <Tag name="About Me"/>
             <h2 className="text-center font-bold py-10">
-                Hey!, i'm Rahul, i'm a CSE student in the day and a developer by evening.<br/>
-                I believe in building stuff and solving problems and I'm interested in <br/>
-                learning all kinds of different things not just programming. I've worked on <br/>
-                quite a few projects, scroll down to see more!!!!
-                 
+                Hey Hey People!!!<br/>
+                I'm Rahul, an average CSE student<br/>
+                I dabble in lots of languages and different types of technologies,<br/>
+                using what is useful pertaining to my requirements<br/>
+                Feel free to take a look at my skills, stats and projects below
             </h2>
             
         </div>
