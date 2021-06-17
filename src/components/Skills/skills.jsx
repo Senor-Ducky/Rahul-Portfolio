@@ -22,13 +22,13 @@ function Skills() {
 
 
     return(
-        <div className="container-fluid sm:w-screen md:w-screen lg:w-screen px-10 py-20 content-center">
+        <div className="container-fluid sm:w-screen md:w-screen lg:w-screen  py-20 content-center">
             
             <Tag name="Skills"/>
             
             <div className="flex justify-center py-10">
 
-                <div className="grid lg:grid-cols-6 sm:grid-cols-1 md:grid-cols-3 gap-4 md:gap-8">
+                <div className="grid lg:grid-cols-6 sm:grid-cols-1 p-4 md:grid-cols-3 gap-4 md:gap-8">
                     <Skill_Card image_link={reactlogo}/>
                     <Skill_Card image_link={clang}/>
                     <Skill_Card image_link={cpp}/>
