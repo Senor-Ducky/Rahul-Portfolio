@@ -3,6 +3,7 @@ import Intro from './components/Intro/intro'
 import About from './components/About/about'
 import Skills from './components/Skills/skills'
 import Stats from './components/Stats/stats.jsx'
+import ProjectTimeline from './components/project timeline/project_timeline.jsx'
 
 
 
@@ -14,6 +15,7 @@ function App() {
       <About/>
       <Skills/>
       <Stats/>
+      <ProjectTimeline/>
     </div>
   );
 
